@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "965268965894",
+    "firebase_url": "https://smart-traveler-ea993.firebaseio.com",
+    "project_id": "smart-traveler-ea993",
+    "storage_bucket": "smart-traveler-ea993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965268965894:android:ca66e46ee172d7b9",
+        "android_client_info": {
+          "package_name": "com.example.mg156.smarttraveler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965268965894-82a6uo88gooi81r9kgntoslthnsqmnk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mg156.smarttraveler",
+            "certificate_hash": "b8dfec0f6e19c6489d423364e2855cdab9111512"
+          }
+        },
+        {
+          "client_id": "965268965894-8sivgm40f888l5dqu6tetl1vd5a6s9pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAiBU_ZCLabT--e6Vz8v3njGLDfD5EbEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965268965894-8sivgm40f888l5dqu6tetl1vd5a6s9pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/user_profile"
+            android:icon="@drawable/profile"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/travel_plan"
+            android:icon="@drawable/travel_plan"
+            android:title="Travel Plan" />
+
+        <item
+            android:id="@+id/travel_history"
+            android:icon="@drawable/travel_history"
+            android:title="Travel History" />
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/user_feedback"
+            android:icon="@drawable/user_feedback"
+            android:title="Send Feedback" />
+
+        <item
+            android:id="@+id/feedback_list"
+            android:icon="@drawable/list"
+            android:title="View Feedbacks" />
+    </group>
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/log_out"
+            android:icon="@drawable/sign_out"
+            android:title="Log Out" />
+    </group>
+
+</menu>
